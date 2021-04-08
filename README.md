@@ -58,7 +58,7 @@ Just like [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg
 ## Tutorials
 
 - [How to record an HLS stream with LibVLCSharp and .NET Core](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html)
-- [Cross-platform RTSP Mosaic views with LibVLCSharp](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-LibVLCSharp.html)
+- [Cross-platform RTSP Mosaic views with LibVLCSharp](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html)
 
 ## Community
 
