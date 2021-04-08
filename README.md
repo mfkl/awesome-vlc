@@ -39,6 +39,7 @@ Just like [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg
 - [VLC iOS](https://code.videolan.org/videolan/vlc-ios) - VLC for iOS is the official port of VLC on the iOS/tvOS platforms.
 - [VLC Android](https://code.videolan.org/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS.
 - [VLC for WinRT](https://code.videolan.org/videolan/vlc-winrt) - (retired) VLC for the Windows Store Environment.
+- [VLC Benchmark (Beta)](https://code.videolan.org/videolan/vlc-bench) - Video decoding and rendering benchmark tool, based on VLC.
 
 ## Bindings
 
