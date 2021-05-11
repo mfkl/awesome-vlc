@@ -6,7 +6,7 @@
   <img width="400" src="https://cdn.worldvectorlogo.com/logos/vlc.svg">
 </p>
 
-Just like [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg), this is a list of awesome resources about VLC and LibVLC.
+This is a list of awesome resources about VLC and LibVLC.
 
 ## Contents
 
