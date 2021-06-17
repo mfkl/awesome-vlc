@@ -53,6 +53,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC. 
 - [flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
+- [WebChimera.js](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
 ## Tutorials
 
