@@ -63,8 +63,8 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Community
 
-- [Stack Overflow - LibVLC](https://stackoverflow.com/questions/tagged/libvlc) - LibVLC on StackOverflow.
-- [Stack Overflow - VLC](https://stackoverflow.com/questions/tagged/vlc) - VLC on StackOverflow.
+- [Stack Overflow - LibVLC](https://stackoverflow.com/questions/tagged/libvlc) - LibVLC on Stack Overflow.
+- [Stack Overflow - VLC](https://stackoverflow.com/questions/tagged/vlc) - VLC on Stack Overflow.
 - [Mailing Lists](https://www.videolan.org/support/lists.html) - VideoLAN developer mailing lists.
 - [IRC](https://wiki.videolan.org/Contact_VideoLAN/#IRC) - The VideoLAN IRC information.
 - [Forum](https://forum.videolan.org/) - The official VideoLAN forum.
