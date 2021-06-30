@@ -59,6 +59,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 - [How to record an HLS stream with LibVLCSharp and .NET Core](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html)
 - [Cross-platform RTSP Mosaic views with LibVLCSharp](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html)
+- [VLC Media Player in Xamarin Forms](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer)
 
 ## Community
 
