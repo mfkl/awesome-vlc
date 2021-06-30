@@ -57,21 +57,21 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Tutorials
 
-- [How to record an HLS stream with LibVLCSharp and .NET Core](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html)
-- [Cross-platform RTSP Mosaic views with LibVLCSharp](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html)
-- [VLC Media Player in Xamarin Forms](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer)
+- [HLS Record tutorial](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html) - How to record an HLS stream with LibVLCSharp and .NET Core.
+- [RTSP mosaic tutorial](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html) - Cross-platform RTSP Mosaic views with LibVLCSharp.
+- [MediaElement tutorial](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer) - VLC Media Player control in Xamarin Forms.
 
 ## Community
 
-- [Stack Overflow - LibVLC](https://stackoverflow.com/questions/tagged/libvlc)
-- [Stack Overflow - VLC](https://stackoverflow.com/questions/tagged/vlc)
-- [Mailing Lists](https://www.videolan.org/support/lists.html)
-- [IRC](https://wiki.videolan.org/Contact_VideoLAN/#IRC)
-- [Forum](https://forum.videolan.org/)
-- [LibVLC Discord](https://discord.gg/3h3K3JF)
-- [Twitter](https://twitter.com/videolan)
-- [Reddit](https://www.reddit.com/r/vlc)
+- [Stack Overflow - LibVLC](https://stackoverflow.com/questions/tagged/libvlc) - LibVLC on StackOverflow.
+- [Stack Overflow - VLC](https://stackoverflow.com/questions/tagged/vlc) - VLC on StackOverflow.
+- [Mailing Lists](https://www.videolan.org/support/lists.html) - VideoLAN developer mailing lists.
+- [IRC](https://wiki.videolan.org/Contact_VideoLAN/#IRC) - The VideoLAN IRC information.
+- [Forum](https://forum.videolan.org/) - The official VideoLAN forum.
+- [LibVLC Discord](https://discord.gg/3h3K3JF) - The official LibVLC Community Discord Server.
+- [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
+- [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
 
 ## Contribute
 
-Contributions welcome!
+[Contributions](contributing.md) are welcome!
