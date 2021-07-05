@@ -3,7 +3,7 @@
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 <p align="center">
-  <img width="400" src="https://cdn.worldvectorlogo.com/logos/vlc.svg">
+  <img width="200" src="https://cdn.worldvectorlogo.com/logos/vlc.svg">
 </p>
 
 This is a list of awesome resources about VLC and LibVLC.
@@ -16,7 +16,6 @@ This is a list of awesome resources about VLC and LibVLC.
 - [Bindings](#bindings)
 - [Tutorials](#tutorials)
 - [Community](#community)
-- [Contribute](#contribute)
 
 ## Docs
 
