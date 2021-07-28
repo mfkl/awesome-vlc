@@ -67,6 +67,6 @@ This is a list of awesome resources about VLC and LibVLC.
 - [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
 - [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
 
-## Contribute
+## Contributing
 
 [Contributions](contributing.md) are welcome!
