@@ -1,10 +1,6 @@
-# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc)
 
 > [VLC](https://www.videolan.org/vlc/) is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
-
-<p align="center">
-  <img width="200" src="https://cdn.worldvectorlogo.com/logos/vlc.svg">
-</p>
 
 This is a list of awesome resources about VLC and LibVLC.
 
