@@ -46,6 +46,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [VLC desktop](https://code.videolan.org/videolan/vlc) - The original Desktop app running on Linux/Windows (Qt) and macOS (Cocoa).
 - [VLC iOS](https://code.videolan.org/videolan/vlc-ios) - VLC for iOS is the official port of VLC on the iOS/tvOS platforms.
 - [VLC Android](https://code.videolan.org/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS.
+- [N01D Media Suite](https://github.com/bad-antics/n01d-media) - Python/CustomTkinter media suite with VLC-powered video player, audio player, image editor, and FFmpeg encoder.
 - [VLC Benchmark (Beta)](https://code.videolan.org/videolan/vlc-bench) - Video decoding and rendering benchmark tool, based on VLC.
 
 ## Bindings
